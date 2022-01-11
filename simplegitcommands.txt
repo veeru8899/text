@@ -1,0 +1,15 @@
+git clone https://github.com/veeru8899/text.git
+
+git pull 
+
+git pull origin main
+
+git add "file name"
+
+or 
+
+git add .
+
+git commit -m "message name"
+
+git push
